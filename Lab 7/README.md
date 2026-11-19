@@ -30,3 +30,8 @@ The fuzz tests use 300 generated examples per function; valid-input properties u
 Command: `python -m pytest -v`
 
 Result: **8 tests passed** (3 fuzz tests, 3 generated valid-input properties, and 2 deterministic example/validation tests). The fuzz tests each ran 300 Hypothesis examples, and each valid-input property ran 150 examples.
+
+### Submission evidence
+
+- `Lab7_Test_Results_PES2UG24CS107.pdf` contains the captured test result view for upload.
+- `screenshots/Lab7_Test_Results_PES2UG24CS107.png` is the screenshot embedded in the PDF.
